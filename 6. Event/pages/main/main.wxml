@@ -1,0 +1,2 @@
+<!--pages/main/main.wxml-->
+<button bindtap="showDetail">pages/main/main.wxml</button>

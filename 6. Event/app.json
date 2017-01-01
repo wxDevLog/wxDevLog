@@ -1,0 +1,7 @@
+{
+    "pages": [
+      "pages/welcome/welcome",
+      "pages/main/main",
+      "pages/detail/detail"
+    ]
+}

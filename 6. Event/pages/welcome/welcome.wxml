@@ -1,0 +1,2 @@
+<!--pages/welcome/welcome.wxml-->
+<button bindtap="start">pages/welcome/welcome.wxml</button>
