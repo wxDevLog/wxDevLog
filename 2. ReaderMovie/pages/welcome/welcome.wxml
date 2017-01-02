@@ -1,3 +1,7 @@
-<view>
-  <text>Hello World!</text>
+<view class="container">
+  <image class="user-avatar" src="/images/avatar.png"></image>
+  <text class="user-name"><text style="color:white">Hello</text>, 北华!</text>
+  <view class="motto-container">
+    <text class="motto">一天一个小程序之二</text>
+  </view>
 <view>
