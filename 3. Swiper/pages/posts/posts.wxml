@@ -1,0 +1,13 @@
+<view>
+  <swiper autoplay="true" indicator-dots="true" interval="3000">
+    <swiper-item>
+      <image src="/images/1.png" style="width: 100%"></image>
+    </swiper-item>
+    <swiper-item>
+      <image src="/images/2.png"></image>
+    </swiper-item>
+    <swiper-item>
+      <image src="/images/3.png"></image>
+    </swiper-item>
+  </swiper>
+</view>
