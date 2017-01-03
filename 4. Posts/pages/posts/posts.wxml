@@ -1,0 +1,61 @@
+<view>
+  <swiper autoplay="true" indicator-dots="true" interval="3000">
+    <swiper-item>
+      <image src="/images/1.png" style="width: 100%"></image>
+    </swiper-item>
+    <swiper-item>
+      <image src="/images/2.png"></image>
+    </swiper-item>
+    <swiper-item>
+      <image src="/images/3.png"></image>
+    </swiper-item>
+  </swiper>
+  <view class="post-container">
+    <view class="post-author-date">
+      <image class="post-author" src="/images/avatar.png"></image>
+      <text class="post-date">2016/1/3</text>
+    </view>
+    <text class="post-title">一天一个小程序呀！
+    </text>
+    <image class="post-image" src="/images/3.png"></image>
+    <text class="post-content">2017年，不能再像2016年那样隔三差五的玩失踪了了，一定要和2015年一样，坚持更新，天天不断更!</text>
+    <view class="post-like">
+      <image class="post-like-image" src="/images/chat.png"></image>
+      <text class="post-like-font">99</text>
+      <image class="post-like-image" src="/images/view.png"></image>
+      <text class="post-like-font">101</text>
+    </view>
+  </view>
+  <view class="post-container">
+    <view class="post-author-date">
+      <image class="post-author" src="/images/avatar.png"></image>
+      <text class="post-date">2016/1/3</text>
+    </view>
+    <text class="post-title">一天一个小程序呀！
+    </text>
+    <image class="post-image" src="/images/2.png"></image>
+    <text class="post-content">2017年，不能再像2016年那样隔三差五的玩失踪了了，一定要和2015年一样，坚持更新，天天不断更!</text>
+    <view class="post-like">
+      <image class="post-like-image" src="/images/chat.png"></image>
+      <text class="post-like-font">99</text>
+      <image class="post-like-image" src="/images/view.png"></image>
+      <text class="post-like-font">101</text>
+    </view>
+  </view>
+  <view class="post-container">
+    <view class="post-author-date">
+      <image class="post-author" src="/images/avatar.png"></image>
+      <text class="post-date">2016/1/3</text>
+    </view>
+    <text class="post-title">一天一个小程序呀！
+    </text>
+    <image class="post-image" src="/images/1.png"></image>
+    <text class="post-content">2017年，不能再像2016年那样隔三差五的玩失踪了了，一定要和2015年一样，坚持更新，天天不断更!</text>
+    <view class="post-like">
+      <image class="post-like-image" src="/images/chat.png"></image>
+      <text class="post-like-font">99</text>
+      <image class="post-like-image" src="/images/view.png"></image>
+      <text class="post-like-font">101</text>
+    </view>
+  </view>
+</view>
